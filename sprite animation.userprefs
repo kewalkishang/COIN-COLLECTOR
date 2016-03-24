@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Speed Arithmetic\Assets\Scripts\answer.js">
+    <Files>
+      <File FileName="..\Speed Arithmetic\Assets\Scripts\answer.js" Line="25" Column="3" />
+      <File FileName="..\Speed Arithmetic\Assets\Scripts\leftBox.js" Line="12" Column="2" />
+      <File FileName="..\Speed Arithmetic\Assets\Scripts\rightBox.js" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
